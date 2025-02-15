@@ -98,16 +98,17 @@ This project is a comprehensive **research paper classification system** develop
 
 The repository is organized into two main directories for clarity and separation of concerns:
 
-### 1. **Task**  
+### 1. 🧪 **Task**  
    - Contains the Jupyter Notebook (`KDSH_Task_Final.ipynb`) outlining the steps, experiments, and analysis for the competition tasks.
 
    **Files and Folders:**
    - 📓 `KDSH_Task_Final.ipynb`: Notebook detailing the problem-solving approaches and methodologies for Task 1 and Task 2.
    - 📁 `Reference/`: Folder containing reference research papers used for initial testing and development.
    - 📄 `Papers/`: Folder containing different type of reasearch papers for testing the model
+   - 🗂️ `Samples/`: Folder containing sample reasearch papers for testing the model
 ---
 
-### 2. **WebApp**  
+### 2. 🌐 **WebApp**  
    - Houses the Streamlit-based application and core logic for research paper classification and RAG-based conference prediction.
 
    **Files and Folders:**
@@ -115,6 +116,7 @@ The repository is organized into two main directories for clarity and separation
    - ⚙️ `model.py`: Code for machine learning models and preprocessing logic.
    - 📁 `Reference/`: Folder containing dynamically updated reference research papers for Pathway’s Vector Store.
    - 📦 `requirements.txt`: Python dependencies for the project.
+   - 📤 `uploaded_files/`: Stored the uploaded papers in the webapp locally.
 
 ---
 
