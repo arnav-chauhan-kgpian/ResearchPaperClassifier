@@ -132,4 +132,4 @@ The repository is organized into two main directories for clarity and separation
 ---
 
 ## ❤️ Acknowledgments
-We extend our gratitude to **Kharagpur Data Analytics Group**, the organizers of the **Kharagpur Data Science Hackathon 2025** and **Pathway** for providing an excellent platform to showcase and enhance our technical skills.
+We extend our gratitude to **Kharagpur Data Analytics Group** and **Pathway**, the organizers of the **Kharagpur Data Science Hackathon 2025** for providing an excellent platform to showcase and enhance our technical skills.
