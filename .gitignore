@@ -2,3 +2,4 @@
 .env
 Task/*.json
 Task/.ipynb_checkpoints/
+Task/GetDocuments
