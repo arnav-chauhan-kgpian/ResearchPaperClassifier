@@ -1,7 +1,7 @@
 Real-Time Autonomous Research Paper Categorization Using Retrieval-Augmented Generation (RAG) and Pathway Services
 Overview
 
-This project is a comprehensive research paper classification system which incorporates Machine Learning, Retrieval-Augmented Generation (RAG), and an interactive Streamlit-based UI are combined to classify research papers into their target conferences while providing detailed reasoning for the classification. 🚀
+This project is a comprehensive research paper classification system which incorporates Machine Learning, Retrieval-Augmented Generation (RAG), and an interactive Streamlit-based UI are combined to classify research papers into their target conferences while providing detailed reasoning for the classification.
 
 Key Features
 
