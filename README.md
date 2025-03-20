@@ -1,4 +1,4 @@
-# 📚 Research Paper Classifier with Retrieval-Augmented Generation (RAG)
+# 📚 Autonomous Realtime Research Paper Classifier with Retrieval-Augmented Generation (RAG) using Pathway Services
 
 ## 🌟 Overview
 This project is a comprehensive **research paper classification system** developed during the **Kharagpur Data Science Hackathon 2025**, where our team **emerged as one of the top 10 teams** out of 10,000 participants after three intense rounds of competition. 
