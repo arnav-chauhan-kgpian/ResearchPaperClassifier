@@ -83,7 +83,7 @@ The repository is organized into two main directories for clarity and separation
 
 Files and Folders:
 
-    project.ipynb: Notebook detailing the problem-solving approaches and methodologies for Task 1 and Task 2.
+    project_final.ipynb: Notebook detailing the problem-solving approaches and methodologies for Task 1 and Task 2.
     Reference/: Folder containing reference research papers used for initial testing and development.
     Papers/: Folder containing different type of reasearch papers for testing the model
     Samples/: Folder containing sample reasearch papers for testing the model
