@@ -133,5 +133,15 @@ The repository is organized into two main directories for clarity and separation
 
 ---
 
+## 💡 Creators
+This project was developed by:
+
+- **Malyadip Pal**  
+  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Neural-Knight) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malyadip-pal-bb034726a/)  
+  Undergraduate Student, Department of Electrical Engineering, IIT Kharagpur  
+
+- **Shaunak Majumdar**  
+  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/23ME30056) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaunak-majumdar-865a27285/)  
+  Undergraduate Student, Department of Mechanical Engineering, IIT Kharagpur  
 ## ❤️ Acknowledgments
 We extend our gratitude to **Kharagpur Data Analytics Group** and **Pathway**, the organizers of the **Kharagpur Data Science Hackathon 2025** for providing an excellent platform to showcase and enhance our technical skills.
