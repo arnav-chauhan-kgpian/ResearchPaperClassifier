@@ -79,7 +79,7 @@ Folder Structure
 The repository is organized into two main directories for clarity and separation of concerns:
 1. Task
 
-    Contains the Jupyter Notebook (KDSH_Task_Final.ipynb) outlining the steps, experiments, and analysis for the competition tasks.
+    Contains the Jupyter Notebook (project_final.ipynb) outlining the steps, experiments, and analysis for the competition tasks.
 
 Files and Folders:
 
