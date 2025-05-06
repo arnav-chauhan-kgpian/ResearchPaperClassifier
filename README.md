@@ -56,8 +56,7 @@ Installation and Setup
 
 Clone the Repository:
 
-git clone https://github.com/Neural-Knight/ResearchPaper-ConferenceClassifier.git
-cd WebApp
+git clone https://github.com/arnav-chauhan-kgpian/ResearchPaperClassifier.git cd WebApp
 
 Install Dependencies:
 
